@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-08-13T09:52:17Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "STM32-G0-Dip-Module"
+        },
+        "Owner": "Ibrahim Zaeiter <zeater18@gmail.com>",
+        "Size": {
+            "X": 51.26375,
+            "Y": 22.69125
+        }
+    }
+}
