@@ -1,11 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2022-08-13T09:52:17Z",
+        "CreationDate": "2022-12-15T12:17:36Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
-            "Version": "9.6.2"
+            "Version": "9.6.1"
         },
         "Part": "Single"
     },
@@ -17,8 +17,8 @@
         },
         "Owner": "Ibrahim Zaeiter <zeater18@gmail.com>",
         "Size": {
-            "X": 51.26375,
-            "Y": 22.69125
+            "X": 51.1175,
+            "Y": 22.70125
         }
     }
 }
