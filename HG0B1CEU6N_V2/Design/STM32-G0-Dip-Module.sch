@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.1">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -3695,7 +3695,7 @@ Octopart Url : http://octopart.com/vlms1300-gs08-vishay-21709201</description>
 <text x="77.47" y="-100.2792" size="1.9304" layer="101" font="vector">Letter</text>
 <text x="82.8802" y="-95.7834" size="1.9304" layer="101" font="vector">1</text>
 <text x="78.74" y="-105.1052" size="1.9304" layer="101" font="vector">1</text>
-<text x="83.566" y="-105.1052" size="1.9304" layer="101" font="vector">1</text>
+<text x="83.566" y="-105.1052" size="1.9304" layer="101" font="vector">2</text>
 <wire x1="86.36" y1="-106.68" x2="86.36" y2="-92.202" width="0.1524" layer="205"/>
 <wire x1="24.13" y1="-87.63" x2="86.36" y2="-87.63" width="0.1524" layer="205"/>
 <wire x1="86.36" y1="-87.63" x2="130.81" y2="-87.63" width="0.1524" layer="205"/>
@@ -6771,8 +6771,8 @@ VB = VBAT
 <wire x1="33.02" y1="-84.582" x2="33.02" y2="-80.01" width="0.1524" layer="205"/>
 <text x="86.36" y="-92.6592" size="1.9304" layer="101" font="vector">Letter</text>
 <text x="91.7702" y="-88.1634" size="1.9304" layer="101" font="vector">1</text>
-<text x="87.63" y="-97.4852" size="1.9304" layer="101" font="vector">1</text>
-<text x="92.456" y="-97.4852" size="1.9304" layer="101" font="vector">1</text>
+<text x="87.63" y="-97.4852" size="1.9304" layer="101" font="vector">2</text>
+<text x="92.456" y="-97.4852" size="1.9304" layer="101" font="vector">2</text>
 <wire x1="95.25" y1="-99.06" x2="95.25" y2="-84.582" width="0.1524" layer="205"/>
 <wire x1="33.02" y1="-80.01" x2="95.25" y2="-80.01" width="0.1524" layer="205"/>
 <wire x1="95.25" y1="-80.01" x2="139.7" y2="-80.01" width="0.1524" layer="205"/>
